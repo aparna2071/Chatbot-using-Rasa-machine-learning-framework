@@ -1,0 +1,1358 @@
+## intent:greetings
+- hey
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+- Hello
+- Hi [Raj](name)
+- Hlo
+- hii
+- helo
+- namaste
+- Hllo
+- good morning
+- morning
+- gud morning
+- Gooood mrning
+- gud afternoon
+- Good afternoon
+- afternun
+- affternoon
+- gooood noon
+- noon
+- hey 
+- how r u [Aparna](name)
+- nuun
+- nun
+- gud noon
+- good evening
+- gud evening
+- eve ning
+- eevning
+- hye
+- hola
+- salam
+- namaskar
+- nmshkr
+- pranam
+- asalam-aleikum
+- aslm alekum
+- parnaam
+- how are you
+- slamalekum
+- suprabhat
+- suuprbht
+- shubhratri
+- shub rtri
+- shoobratri
+- sooprabhat
+- shubbhsndhya
+- shubh sandhya
+- shubhsundhya
+- goodnight
+- gudnite
+- GM
+- GN
+- gooodnight
+- welcome
+- wlcm
+- swagat
+- swagatam
+- svagat
+- svagt
+- nice to meet you [Aparna](name)
+- niic to meet u
+- aapse milkr khusi hui
+- apse milkar khushi huii [Aparna](name)
+- how do you do
+- whats up
+- what'sup [Aparna](name)
+- how's its going
+- how going
+- how is ur day
+- how's your day
+- gday
+- g'day
+- wazzp
+- whazzp
+- kaise ho?
+- kse ho
+- sab thik?
+- sb thik
+- kya haal hai?
+- kya hal h
+- you are welcome
+- you'r wlcm
+- hie
+- hiiiiiiiiii
+- haalo
+- shabha kher
+- have a good day [Aparna](name)
+- hve gud day ahead
+- shbhakhaer
+- namaskaram
+- nomoshkar
+- nmoshkr
+- satsriakal
+- stsikal
+- adab
+- adaab
+- jaijinendr
+- jai jinendar
+- bonjour
+- bonjur
+- bonne nuiyt
+- bonnuit
+- suprabhatam
+- sooprbhtm
+- suswagatam
+- subha prabhata
+- shabbha khair
+- ram ram
+- raamraam
+- omshanti
+- hariom
+- guten morgen
+- gute nacht
+- yo!
+- you alright? [Aparna](name)
+- are you ok?
+- r u okay
+- radhe radhe
+- how's you
+- how do u do?
+- khuda hafiz
+- khuda haafiij
+- shubhasaayam
+- good luck
+- gud luk
+- shagotam
+- shwagatam
+- jayjinendr
+- hello spotle
+- heelo 
+- hello how are you?
+- hey,whatsup
+- hey careerbot
+- hi chatbot
+- hlo bot
+- hows u
+- howzz u
+- what's new?
+- howdy
+- what's happening
+- wht happening
+- what 's happnin
+- hiiiiiiiiiii
+- hellllllllllooooooo
+
+## intent:affirm
+- yes
+- indeed
+- of course
+- that sounds good
+- correct
+- yes
+- you can go further
+- ok go ahead
+- ok fine
+- I agree
+- agreed
+- go ahead
+- yes,  fine
+- ya
+- haanji
+- hnji
+- haan 
+- you are right
+- u r right
+- okay move on
+- yes,go ahead
+- you are correct
+- you're correct
+- yep
+- yup
+- yaaaaas
+- totally
+- you are totally right
+- totaly correct
+- sure
+- alright
+- for sure
+- allright
+- k
+- okay 
+- of course
+- absolutely
+- absolutely correct
+- absolutely right
+- definitely
+- of course you are right
+- u are correct 
+- yes, proceed further
+- go on 
+- move on 
+- certainly 
+- u are definitely right
+- its indeed a good move
+- indeed
+- definitely
+- undoubtedly
+- yes, no doubt its right
+- carry on 
+- fine
+- yeah
+- yeah, yeah
+- yah
+- yea
+- hmm
+- hmmmmmmmmm
+- mhmm
+- no worries
+- no worry
+- surely 
+- sure thing
+- no confusion
+- gladly
+- so true
+- tru
+- why not?
+- proceed further
+- that's right
+- thats rite
+- that's spot on 
+- you have hit the nail on the head
+- u hv nailed it
+- i suppose so
+- you're dead right
+- quite right
+- hn
+- hnn
+- haa
+- ha
+- svikar h 
+- sawikaar hai
+- haanjee
+- thik hai
+- thik h
+- koi dikkat nhi
+- no problem
+- no issues
+- accha hai
+- acha 
+- upyukt hai
+- aap sahi keh rhe hai
+- sahi h
+- shi
+- aage bdiye
+- badhiya hai
+- bdia h
+- ucchit hai
+- aap thik bol rhe hain
+- haan thik hai
+- hnji sahi h
+- aage badhen
+- age bade
+- gud
+- good 
+- it's a right decision
+- ya, it seems to be a good decision
+- continue
+- let's move ahead
+- go for it
+- i'm with you on this
+- i am with u 
+- i stand in agreement
+- i agree with u
+- it's fine
+- it's too good
+- han
+- jee
+- gee
+- han gee
+- affirmation
+- yeah, sure
+- ya, cool
+- yes, of course
+- i'd be glad to say that it's a right move
+- bilkul 
+- bilkul thik
+- accha
+- oh yes, it is
+- oo yaas
+- yes indeed
+- ja
+- ji hn
+- ji haanji
+- go on 
+- alrighty
+- no prblm 
+- all correct
+- fortunately
+- cool
+- fortunately yes
+- damn right
+- i'm interested
+- it's possible
+- certainly possible
+- quite simple
+- i' m possible
+- can do
+- interested in this
+- you bet
+- okie dokie
+- right on
+- uh-huh
+- by all means
+- gladly
+- let's go
+- as you wish
+- i would love to do this 
+- okie
+- without fail
+- exactly
+- i shall
+- i can do
+- definitely, i will
+- i'm ready
+- u got the point
+- fair enough
+- affirmative
+- you can go further
+- ok go ahead
+- ok fine
+- I agree
+- agreed
+- go ahead
+- yes,  fine
+- ya
+- haanji
+- hnji
+- haan 
+- you are right
+- u r right
+- okay move on
+- yes,go ahead
+- you are correct
+- you're correct
+- yep
+- yup
+- yaaaaas
+- totally
+- you are totally right
+- totaly correct
+- sure
+- alright
+- for sure
+- allright
+- k
+- okay 
+- of course
+- absolutely
+- absolutely correct
+- absolutely right
+- definitely
+- of course you are right
+- u are correct 
+- yes, proceed further
+- go on 
+- move on 
+- certainly 
+- u are definitely right
+- its indeed a good move
+- indeed
+- definitely
+- undoubtedly
+- yes, no doubt its right
+- carry on 
+- fine
+- yeah
+- yeah, yeah
+- yah
+- yea
+- hmm
+- hmmmmmmmmm
+- mhmm
+- no worries
+- no worry
+- surely 
+- sure thing
+- no confusion
+- gladly
+- so true
+- tru
+- why not?
+- proceed further
+- that's right
+- thats rite
+- that's spot on 
+- you have hit the nail on the head
+- u hv nailed it
+- i suppose so
+- you're dead right
+- quite right
+- hn
+- hnn
+- haa
+- ha
+- svikar h 
+- sawikaar hai
+- haanjee
+- thik hai
+- thik h
+- koi dikkat nhi
+- no problem
+- no issues
+- accha hai
+- acha 
+- upyukt hai
+- aap sahi keh rhe hai
+- sahi h
+- shi
+- aage bdiye
+- badhiya hai
+- bdia h
+- ucchit hai
+- aap thik bol rhe hain
+- haan thik hai
+- hnji sahi h
+- aage badhen
+- age bade
+- gud
+- good 
+- it's a right decision
+- ya, it seems to be a good decision
+- continue
+- let's move ahead
+- go for it
+- i'm with you on this
+- i am with u 
+- i stand in agreement
+- i agree with u
+- it's fine
+- it's too good
+- han
+- jee
+- gee
+- han gee
+- affirmation
+- yeah, sure
+- ya, cool
+- yes, of course
+- i'd be glad to say that it's a right move
+- bilkul 
+- bilkul thik
+- accha
+- oh yes, it is
+- oo yaas
+- yes indeed
+- ja
+- ji hn
+- ji haanji
+- go on 
+- alrighty
+- no prblm 
+- all correct
+- fortunately
+- cool
+- fortunately yes
+- damn right
+- likely
+- i am able to do this
+- it's possible
+- certainly possible
+- quite simple
+- can do
+- you bet
+- okie dokie
+- right on
+- uh-huh
+- by all means
+- gladly
+- let's go
+- as you wish
+- i would love to do this 
+- okie
+- without fail
+- exactly
+- i shall
+- i can do
+- definitely, i will
+- i'm ready
+- u got the point
+- fair enough
+- affirmative
+- ok
+- okay
+- kk
+- ok fine
+
+## intent:reject
+- no
+- never
+- I don't think so
+- don't like that
+- no way
+- not really
+- no
+- nope
+- impossible
+- not possible
+- not
+- certainly not
+- nah
+- na
+- nhi
+- nahi
+- ni
+- sorry
+- sry 
+- i'm really very sorry to say this
+- i'm extremely sry 
+- not this time
+- not now
+- not dis tym
+- unfortunately
+- i wish i could but unfortunately not
+- i wanted but unfortuntely couldnot
+- i'm taking some time
+- not today 
+- try next time
+- try again
+- please try again
+- it's not my thing
+- i can't do this
+- it's near to impossible
+- quite hard
+- i am unable to do this
+- i was not able to do 
+- i regret to inform you
+- sorry to say you
+- sry to inform u
+- it's not possible
+- how can it be
+- unluckily
+- i'm not interested
+- not intersted
+- sry, no intrst
+- sorry to say this but i am not interested
+- not for me
+- not suitable for me
+- not for me, thanks
+- not now, thx
+- i'm afraid i can't
+- worried
+- afraid
+- donot
+- cannot
+- can't
+- don't 
+- if only it worked
+- doubt
+- in doubt
+- maybe next time
+- maybe another time
+- next tym pls
+- no way
+- not likely
+- i can't
+- i am unable to do
+- i shall not
+- you can't
+- u can't
+- by no means
+- no means no
+- if only i could
+- it's difficult for me
+- difficulty
+- hard to do
+- no, thanks
+- nope,thnx
+- not right
+- wrong
+- totally incorrect
+- don't go for it
+- never
+- never go for it
+- don't take this move
+- donot go ahead 
+- i think not
+- no possibility
+- uncertain
+- not certain
+- absolutely wrong
+- not this time
+- no, thank you
+- thank u but not interested
+- no thx but it sounds lovely
+- we appreciate this, however unfortunately it's not the best time
+- thanks but i couldnot be able to make it
+- i wish i were able to
+- i wanted to do this but can't
+- wished to do but failed
+- unable to do
+- damn not able to fit it in
+- i wish i could have done this
+- apologies
+- i have something else
+- sadly
+- reget to say this
+- hme kehte hue bht bura lg rha h
+- hme khed hai
+- asambhav
+- sambhav nhi hai
+- nahi ho skta 
+- anuchit hai
+- thik nhi h
+- thik nahi hai
+- galat
+- durbhagye se
+- asehmt hu 
+- not agreed
+- disagree
+- not likely to be
+- less probable
+- no probability
+- sahi nhi h
+- dur bhagyey
+- kaash me aisa kr paata
+- kaash m esa kr pati
+- merko esa krne m khushi hoti pr durbhagye h mera
+- nahin
+- agli baar dekhte hain
+- sounds great but i can't commit
+- looks nice but i am not able to proceed
+- can't proceed further
+- bahut mushkil hai
+- bht mushkil 
+- durbhgyapurn
+- sounds good but no interest 
+- gud but not of any use to me
+- na
+- naahi
+- oh no
+- ooo no
+- non
+- nein
+- not sure
+- uncertainly
+- perhaps i could do
+- i'm sorry
+- i feel sorry to say 
+- let me think
+- can't agree
+- rejection
+- cancel
+
+## intent:career_options
+- is [hadoop](skill) needed to be a [data scientist](position) ?
+- what is the salary of a [data scientist](position) in [India](location) ?
+- can anyone be a [computer programmer](position) ?
+- how long does it take to become a [data scientist](position)
+- what do entry level [programmers](position) do?
+- what are career options for students of [computer science engineering](branch)
+- scope of [cse](branch)
+- market demand of [deep learning](course)
+- duration for becoming [data scientist](position)
+- time taken for becoming [data scientist](position)
+- i am good in [machine learning](skill),which career should i pursue?
+- show options for [ml](skill)
+- trending courses for [data scientist](position)
+- which course should i do to become [data scientist](position) ?
+- courses for [data scientist](position)
+- skills needed for [data scientist](position)
+- what is the difference between [programmer](position) and [software developer](position)
+- diff bw [programmer](position) nd [software developer](position)
+- db [programmer] (position) nd [software developer](position)
+- role of [data scientist](position)
+- responsibilities of [data scientist](position)
+- career option for [computer science engg](branch)
+- good courses for [machine learning](skill)
+- recommend some courses related to [ml](skill)
+- fees of [ml](skill) course
+- course structure of [ml](skill)
+- demand of [ml](skill)
+- out of [deep learning](skill) and [data science](skill) which has more scope
+- best course for [ml](skill)
+- syllabus of [ml](skill)
+- work done by [programmer](position)
+- qualifications for [data scientist](position)
+- salary of [programmer](position)
+- income of [programmer](position)
+- working hours for [data scientist](position)
+- related courses for [ml](skill)
+- courses realted to [ml](skill)
+- best course for [ml](skill)
+- show me courses from [coursera](resource) for [ml](skill)
+- fee structure of [ml](skill) course
+- is [visual basic](skill) necessary for [programmer](position) ?
+- what is the importance of [soft skills](skill) in becoming [programmer](position )
+- do [programmer](position) needs to learn [javascript](skill)
+- i am skilled in [ml](skill) ,show related options
+- skilled in [ml](skill),are any related options
+- skilled in [ml](skill),is it in demand
+- average salary for [programmer](position)
+- if i do course from [coursera](resource) what is its value
+- do online courses for [ml](skill) have any worth
+- online courses for [ml](skill)
+- value of certificate by [coursera](resource)
+- offline courses for [ml](skill)
+- syaalabus of [ml](skill)
+- show me certification courses for [ml](skill)
+- certified courses for [ml](skill)
+- fee of [ml](skill)
+- events for [android](skill)
+- upcoming workshops on [blockchain](skill)
+- fairs for [ml](skill)
+- meetups for [ml](skill)
+- videos for learning [ml](skill)
+- suggest some careers for [ml](skill)
+- how much time i have to spend to become expert in [deep learning](skill)
+- tym required for [ml](skill)
+- requirements for [data scientist](position)
+- prerequisites for learning [ml](skill)
+- what i need to learn before learning [ml](skill)
+- i am [12th pass](qualification) and intersted in [maths](skill) ,show career options
+- which stream i should take if i am intersted in [maths](skill) after [10th](qualification)
+- options for [12th pass](qualification) student
+- which career is best for a student of [12th intersted in science](qualification)
+- streams available for [10th pass](qualification)
+- what is probabilty of employability for [ml](skill)
+- what are languages that are required for [data scientist](position)
+- languages/skills required for [blockchain developer](position)
+- necessities/requirements for [data scientist](position)
+- what is the difference between scope for [ml](skill) and [deep learning](skill)
+- which is better [ml](skill) or [deep learning](skill)
+- comparison of [data scientist](position) and [programmer](position)
+- salary of [data scientist](position) vs [programmer](position)
+- what are internships for [ml,ai](skill)
+- internships for [ml,ai](skill)
+- i am intersted in [ml,ai](skill) ,which internship is best
+- show internships that are of [2](amount) month duration for [ml,ai](skill)
+- what skills i need to have to do internship for [ml,ai](skill)
+- duration of [ml](skill) internship
+- best company where i can apply for internship in [ml,ai](skill)
+- what do [ml](skill) interns do
+- work of [ml](skill) intern
+- suggestions of internships related to [ml](skill)
+- i have upper hand on [ml](skill) show related internships
+- i have upper hand on [maths](skill) what stream should i take [after 10th](qualification)
+- i am expert in field of [ml](skill),show career options
+- need of [programming](skill) for [data science](skill)
+- suitable careers for [ml](skill) intern
+- how [soft skills](skill) effect role of [data scientist](position)
+- what education do i need to be a [hardware engineer](position)
+- educational qualifications for[hardware engineer](position)
+- how much does a [hardware engg](position) make on an average
+- salary of [hardware engg](position) in [Delhi](location)
+- types of careers in field of [hardware engg](position)
+- where can i work as a [hardware engg](position)
+- how can i become industry ready to be a [data scientist](position)
+- courses that can help make me industry ready for [ml](skill)
+- resources that can help me become expert in [ml](skill)
+- what are the hard skills and soft skills required to be a [software developer](position)
+- tasks of [software developer](position)
+- how long does it take to become [software developer](position)
+- difference between [software developer] (position) n [software engineer](position)
+- do you need a degree to become [web developer](position)
+- is diploma of 3 months sufficient to be a [web developer](position)
+- does [database administrator](position) do setting up of database with appropriate disk space
+- people who possess [creative thinking skills](skill) ,what are careers suitable for them
+- duties of [video game designers](position)
+- expected salary of [video game designer](position)
+- i am skilled in [ml](skill) ,how much can i expect to earn
+- how can i become [video game designer](position)
+- where can i get help during my learning
+- what's my earning potential as a [health information technician](position)
+- internships suitable according to my resume
+- which books to study to gain expertise in [ml](skill)
+- is taking online courses to be [software developer](position) better than reading from books
+- what do i need to get recruited at top companies
+- i want salary of about [40k or more](amount) ,which field to choose after completing my [btech](qualification) in [computer science](branch)
+- top careers in [computer science](branch)
+- i am gud at [ml](skill),can you recommend similar fields
+- having knowldege of [python](skill) how much should i expect to get 
+- if i want to work as [data scientist](position) do i need to also know [deep learning](skill)
+- which course should a passout of 12th take if he/she has scored more in [ maths](skill) but is interested in doing [science ](skill)
+- what is the duration of [btech](course)
+- only show those courses which are free of cost for[ml](skill)
+- suggest only those courses whose fees is [ less than 5k](amount)
+- which workshops should i attend to get my concepts clear about [ml](skill)
+- only recommend workshops or seminars that are held in [delhi](location)
+- what do gud companies ask for
+- what skills are necessary to become an expert in [ml](skill)
+- if i get [jee](exam) score of [85](amount), can i get admission in [dtu](college)
+- show me latest upcoming seminars for [redhat](skill)
+- what percentage do i require to get [science](skill) after [10th](qualification) in a reputed school
+- will market value of [ml,ai](skill) increase in next [5](amount) years
+- i am confused about my career after [12th](qualification) , which college i should join, show me best colleges of [delhi](location )
+- is [du](college) better than [ipu](college)
+- how many seats are available in [du](college) in [bsc](course) for general 
+- how many seats are reserved in [ du](college)
+- can i get admission in [ipu] (college) on getting [85](amount) % in my [12th boards](exam)
+- what is the cutoff for general students in [ipu](college) in [btech](course)
+- best clg in [delhi](location)
+- is [75](amount) % sufficient to get admission in [ipu](college)
+- what to do after [bcom](course)
+- what to do after completing my [msc](course)
+
+
+## intent: job_search
+- I want to find a job for [AI](skill)
+- I have upper hand on [Java](skill), show me top jobs
+- i am skilled in [python](skill) ,what are job opportunities suitable for me
+- what is the number of [information technology architects](position) who are employed in [India](location)
+- skilled in [python,java,ml](skill) ,want to have a job in [Delhi or ncr](location)
+- expected salary of [40k](amount) ,suggest jobs in or near [Delhi](location) for post of [data scientist](position)
+- having internship of [ml,ai](skill) ,searching for job
+- searching for full time job as a [career counselor](position)
+- are any part time jobs available for [ml](skill)
+- as a new comer with no experience what kind of jobs are there in field of [ml](skill)
+- top 10 companies in [Delhi](location) and their eligibility criteria
+- requirements or qualifications i need to have to apply for [data scientist](position)
+- do [company_name](company) also takes people with no previous experience?
+- how much salary does an unexperienced employee get in [tcs](company)?
+- job opportunities for newcomers or freshers 
+- vacancy of seats in [infosys](company)
+- educational qualifications or skills needed to be a [teacher of 10th](position)
+- how many years of experience is required to become [software engg](position)
+- is any experience required to be a [system engg](position) in [xyz](company)
+- how many seats or vacancies are available for [system engg](position) in [companyx](company)
+- job suggestions for [ml,ai](skill) intern 
+- job suggestions for [4](amount) year experienced in [ml,ai](skill)
+- finding a job that requires [8](amount) hours of work per week
+- how many hours do i have to work if i decide to work from home for [companyxx](company)
+- is work from home available as a [counselor](position) in [company](company)
+- working hours and timings for part time jobs in [Delhi](location) in field of [ml,ai](skill)
+- what will be the increment in my salary per year if i will be selected as [data scientist](position) in [tcs](company)
+- percentage growth in salary per yr in [companyxx](company)
+- is [company_name](company) good for a person who is skilled in [ai](skill)
+- is [tcs](company) better than [infosys ](better)
+- difference between salaries of [company1](company) and [company2](company)
+- how much a [5 yr](amount) experienced expect to earn as a [software developer](position) in [infosys](company)
+- i am [5 yr ](amount) experienced but i have changed my field , can i get a job in [infosys](company)
+- what does a newcomer get in [company_name](company)
+- are night shifts available in [abc](company)
+- timings of [company_name](company)
+- are there any extra benefits and perks when working as [data scientist](position) in [company_name](company)
+- if i work overtime what extra amount will i get
+- salary of overtime
+- are allowances available for [data scientist](position)working in [company_name](company)
+- facilities in [name](company)
+- safety and security of [companya](company)
+- is cab facility available in [company](company)
+- transport available or not in [tcs](company)
+- is there a canteen in company's premises
+- good food and drinking water is available in [companyh_name](company) or not
+- do we get lunch in [abc](company)
+- infrastructure and campus life in [abc](company)
+- whats the provision for night shifts in [company](company)
+- are there extra payments for night shifts
+- i want to know about [com](company)
+- can you give me the website of [company_name](company)
+- how many job vacancies are there for [pgt teachers](position) in [2020](year)
+- suggestions of jobs related to [ml,ai](skill)
+- what post does a newcomer or unexperienced get in [infosys](company)
+- timings for night shifts
+- about [company_name](company)
+- provision of pension is there or not in [company](company)
+- i am currently working in [mnc](company) and want to get a better job than this ,suggest me some companies 
+- which is better working in psu or a private mnc
+- differences between public sector and private sector jobs
+- recommend jobs related to [teaching](branch)
+- jobs for [cse](branch)
+- mode of recruitment in [company](company)
+- will there be any written test for recruitment
+- can [12th pass](qualification) also apply for post of [clerk](position)
+- is there any degree or diploma required for [clerk's](position) post
+- minimum eligibility criteria for applying
+- when to apply for [pgt teacher's ](position) job and whats the procedure
+- educational qualifications needed
+- is there any provision for pensions after retirement
+- what amount do we expect as pension
+- is any kind of interview taken 
+- is there any placement test 
+- top paying areas in [computer science](branch)
+- which field is in great demand in market
+- are [data scientists](position) paid more than [web developers](position)
+- is job as [mining engg](position) a transferable job
+- can we work from home
+- applying procedure for [ml](skill) job
+- will there be any paid leaves
+- is there provision of maternity leave
+- will there be any holiday on festivals in [tcs](company)
+- do we get any holiday per week
+- is there any difference in salary of fresher and experienced
+- what advice do [tcs](company)gives to its freshers for their promotions
+- do we get extra benefits and incentives
+- can we apply for transfers?
+- i don't want to relocate and want jobs near Delhi
+- is salary of both work from home and work from office same or is there any variation
+- difference between work form home and office
+- what role does a [20 yr](amount) experienced person get in [company_name](company)
+- i want to find a job related to [ai,ml](skill)
+- is pension available in [companyaa](company)
+- where will i get placed if i get selected as [data scientist](position)
+- will i get home allowance for shifting from my place
+- location of job
+- placement procedure
+- address of [company](company)
+- where is [companyz](company) located
+- location of [com](company)
+- [it ](branch) companies near me
+- [it](branch) companies in [delhi](location)
+- what is the difference between salary of skilled and unskilled professionals
+- salary potential in [cs](branch)
+- what certifications i require to be a  [data scientist] (position)
+- how many internships are needed to get a good job in [companyz](company)
+- number of internships required
+- no. of internships needed
+- annual income of [engineer](position)
+- average income of [data scientist](position)
+- avg salary of [data scientist](position)
+- any certificates required for placement process?
+- documents i need to carry with me for job interview
+- is [12th](qualification) marksheet compulsory to carry for placement
+- minimum no. of internships required for [ml](skill)job
+- experience required or not
+- is [5](amount) yr experience mandatory 
+- job opportunities for people skilled in [ml,ai](skill)
+- [it ](branch) companies within [15 km ](amount) radius 
+- jobs for abroad
+- abroad jobs
+- eligibility criteria for finding a job in abroad
+- top 10 companies in abroad for [ai,ml](skill)
+- recruitment process for international companies
+- show rating of [company_name](company)
+- is [company1](company) better than [company2](company)in terms of infrastructure
+- in terms of salary, out of [company_1](company) and [company_2](company) which is best choice
+- in terms of facilities, out of [company1](company) and [company2](company) which is better
+- we should go for jobs in abroad or not 
+- extra benefits abroad companies give
+- i want to know about best companies in abroad for [ml](skill)
+- do we need to do any course or need any certificate to get a job in abroad
+- are pensions available in abroad
+- show companies that pay more than [40k ](amount)
+- show me only pensionable jobs 
+- documents necessary for job in abroad
+- suggest jobs that are suitable to my profile or resume
+- find job with minimum salary of [50k](amount)
+- show job vacancies in [US](location)
+- average salary of [data scientist](position) in abroad
+- flexible timings or not
+- is there any diffrence between recruitment process in india and other countries
+- do other countries require some extra documents
+- do other countries provide better salary and more perks than india
+- salary of entry level [programmers](position) in [companyz](company)
+- how much an experienced earn in [companyxx](company)
+- can we work as a freelancer
+- are freelance jobs available in [delhi](location)
+- what credentials are needed for getting a job in [mnc](company)
+
+## intent: feedback
+- nice to talk to you
+- good for nothing
+- nice converation
+- really satisfied 
+- satisfied with your responses
+- something i would really appreciate is that
+- queries
+- doubts
+- i am pleased to talk to u
+- extremely satisfied
+- good replies
+- i have some doubts regarding this
+- really happy with replies
+- fortunately got all answers 
+- answered all my questions 
+- lovely meeting 
+- would also like to meet you again
+- will love to talk to u again
+- extremely useful
+- useful
+- what i liked the most is that this chatbot gives very accurate replies
+- thanks for giving me time
+- glad to meet you
+- i think you did a great job
+- gud job
+- good work
+- i liked it
+- thanks for your help
+- i would like to thank u for your support
+- helped me a lot
+- helped me very much
+- look forward to meet you again
+- enjoyed the conversation
+- pleasure to talk to you
+- ur suggestions worked a lot
+- i would like to appreciate you
+- thanks for supporting
+- valuable content
+- enjoyed a lot
+- grateful 
+- i express my gratitude
+- best thing i liked is the
+- thx
+- i can't even begin to explain how much your help meant to me
+- ur recommendations were according to my interest
+- suggested exactly what i wanted
+- good suggestions
+- nice replies
+- loved it
+- liked a lot
+- how wonderful to meet u
+- amazing 
+- superb 
+- cool ideas
+- great interacting with you
+- gud interaction
+- i had a great time
+- pleased to make ur acquaintance
+- plzd
+- hppy
+- happie
+- happy to meet you
+- you showed me a ray of sunshine
+- gave me direction to proceed
+- i appreciate
+- i was really confused about my career before chatting with you
+- all confusions clrd
+- doubts cleared
+- problm solved
+- all problems solved
+- very interactive
+- user friendly responses
+- best personalized responses
+- best experience
+- nice idea
+- friendly
+- fortunate to meet you
+- your acquaintance helped
+- thank you very much
+- thnku vmuch
+- thnku
+- you're so helpful
+- ur helping
+- ur guidance is valuable
+- worthy 
+- i am thankful that you are considering my problem
+- understood my prblm very well
+- i will always remember your contribution
+- Words cannot describe how grateful i am
+- solved my problem
+- you are the best
+- a million thanks to you
+- very bad 
+- very irritating responses
+- not helpful
+- not suitable for me
+- worst experience
+- not nice
+- very sad
+- no doubts cleared
+- bad experience
+- no correct replies
+- everything wrong
+- nothing right
+- poor
+- awful experience
+- really irritating , not even a single answer correct
+- i am very sad
+- sad
+- not got desired answers
+- suggestions not according to my profile
+- poor management
+- i want to complain about this
+- terrible
+- horrible
+- what a boring chatbot
+- not suitable
+- unpleasing
+- unpleasant
+- dreadful
+- reget to say 
+- not agree
+- diasgree
+- hateful
+- i hate this meeting
+- hatred
+- disgraceful
+- what nonsense 
+- no sense of this
+- depressed 
+- no way
+- frustrated a lot
+- miserable meeting
+- i feel gloomy after this meeting
+- really confusing
+- irrelevant
+- no relevant thing
+- confused
+- poorly made chatbot
+- needs to improve
+- needs improvement
+- i am angry 
+- foolish
+- dumb
+- not a smart chatbot
+- idiot
+- what a disgraceful experience
+- i am upset as i couldnot get answers
+- no personalised recommendations
+- upset
+- unhappy
+- crying
+- imprve urself
+- u don't even know how to
+- not satisfactory 
+- not up to the mark
+- unsatisfied
+- up to the mark
+- outstanding
+- best 
+- i am in pain 
+- painful
+- tearful 
+- i have never seen such a idiot chatbot
+- very well trained
+- poorly trained
+- untrained
+- not trained well
+- fed up with this
+- most irritating
+- stupid 
+- what a pain
+- it really gets on my nerves
+- i'm sick and tired of it
+- can't tolerate
+- fantastic
+- i think you need to improve
+- not bad
+- what a waste of time
+- time waste
+- i'm getting frustrated
+- i prefer those bots which are [user friendly](suggestion)
+- the most irritating thing that i found was that it can't understand my query
+- all unsolved queries
+- no query solved
+- i think u should focus more on
+- not showing updates specific to me
+- not showing recent updates
+- can't understand who made this irritating chatbot
+- according to me it is nothing but totally time waste
+- can improve by adding [more course_options for 12th pass](suggestion)
+- can't understand my interests and disintersts
+- needs to be trained more
+- you can also add contacting with human experts if you don't know the answer but for god's sake don't give incorrect answers
+- please redirect me
+- pls let me know where i can complain
+- also add the option of [appointment with human experts or counsellors](suggestion )
+- there is a scope for further improvement in this
+- u should do some improvement in the field of [cse](branch)
+- bahut bura 
+- bht bura
+- acha h
+- accha
+- dhng k nhi hai
+- no use
+- useless
+- aapse baat krke acha lga
+- aapse baat krke khushi hui
+- mere liye nhi hai
+- bht sahi hai
+- sb thik hai
+- isse acha nhi dekha kbhi
+- isse bekr nhi dekha 
+- gnda 
+- gussa aa rha hai
+- preshan kr dia 
+- bekar hai
+- tym brbad 
+- bahut bekaaar hai
+- nice to see you
+- good to see you
+- gud to see u
+- pleased to meet u [Aparna](name)
+
+## intent: exam
+- which exam to appear for [medical](stream) ?
+- is [gate](exam) necessary for [engineering](stream) students ?
+- do [btech](course) students need to appear for [gate](exam) ?
+- is it mandatory/ compulsory for [btech ](course) students to take [gate](exam) exam ?
+- essential exam for [btech](course) student
+- xms for [btech student](course)
+- exams for [btech](course) student
+- compulsory xams after doing [btech](course)
+- i am a [btech](course) student, after this where should i go for and what is the paper i need to clear
+- paper a [btech](course) student needs to clear to become [engg](position)
+- what pprs do [btech](course) student should clr for job in [psu](company)
+- essential xam for [btech](course) student 
+- if i want a job in [psu](company) , will i need to clear [gate](exam) or not ?
+- i am interested in buliding my career in the field of [ai,ml](skill) ,what exams should i take
+- do we need to clr any ppr for getting admission in [mtech](course)
+- can we take admission in [mtech](course) without appearing for [gate ](exam)
+- is admission to [mtech](course) possible without [gate](exam)
+- is service in [company_name](company) possible without clearing [gate](exam)
+- can i get admitted to a good college in [mtech](course) without appearing for the entrance exam of [gate](exam)
+- is there any alternative to [gate](exam)
+- exams related to [gate](exam)
+- how long does it take to prepare for [gate](exam)exam
+- are [3 months](amount) sufficient to prepare for [gate](exam)
+- can i get job after [btech](course) without [gate](exam)
+- is a duration of [3 months](amount) ok to prepare for [gate](exam)
+- how many hours i need to spend per day to clear [gate](exam)
+- hrs per week required for getting a good score in [gate](exam)
+- tips and tricks to beat exam stress
+- how to get rid of exam stress
+- what measures should i take to beat stress
+- tips to get good score in [gate](exam)
+- tricks to solve [boards](exam)
+- how to answer [30](amount) questions in [30](amount) minutes
+- how to answer multiple choice questions in [gate](exam) quickly
+- tips nd tricks for getting a good percentage in [12th boards](exam)
+- how to improve speed for solving mcqs in entrance and placement exams
+- what strategy should i adopt to score more in [12th](exam)
+- most important exams to apply after [12th](exam)
+- when can i apply for [jee](exam)
+- where can i get application form for [jee](exam)
+- can i apply online
+- is there any fee to apply for [jee](exam) exam
+- last date to apply for [jee](exam)
+- when will registration for [jee](exam) exam end
+- what is the syllabus of [ctet](exam)
+- course of [jee](exam)
+- [ctet](exam) syllabus
+- [gate](exam) curriculum/syllabus for the year [2021](year)
+- if i prepare for only [3](amount) subjects for [gate](exam) ,will i be able to crack it
+- is [engg maths](subject) required to crack [gate](exam)
+- can we skip [maths](subject) for [gate](exam)
+- can i get gud marks in [12th boards](exam) if i don't do [organic in chemistry](subject)
+- datesheet for [12th](exam) [2020](year)
+- when will [10th and 12th board](exam) exams start this year
+- show me datesheet for [10th](exam)
+- what is the duration of [12th board](exam) exams
+- maximum marks of [jee](exam) paper
+- will [jee](exam) exam be held in online or offline mode
+- what is  the date of online exam
+- date of offline paper
+- what is the weightage of [aptitude](subject) in [gate](exam)
+- how many questions we should expect from [aptitude](subject) in [gate](exam)
+- [discrete maths](subject) consists of what percentage of [gate] (exam)paper
+- no. of ques of [aptitude](subject) in [gate](exam)
+- how many subjects we need to prepare to have [85](amount) marks in [gate](exam)
+- can we leave some topics if we want to score [75%](amount) in [physics](subject) [12th](exam)
+- what are the subjects in [gate](exam)
+- subjects that i need to prepare for [gate](exam)
+- exam date of [ctet](exam)
+- eligibility criteria for applying for [gate](exam)
+- is there any percentage that we need to have in [12th](exam) to apply for [jee](exam)
+- does [12th](exam) marks are of importance for [jee](exam) score
+- [jee](exam) is for which course
+- is [gate](exam) a national or state level exam
+- is [ctet](exam) for [teaching](position)
+- i have completed my [12th](qualification) ,am i suitable for [neet](exam)
+- are [12th pass](qualification) with [75](amount) % eligible to apply for [jee](exam)
+- i want to find a government job , what are exams for that 
+- which exams should [btech](course) passout apply for to get a public sector job
+- i am interested in [science](skill) which xams to apply after [12th](qualification)
+- i love [science](skill) which exams are suitable for me 
+- i am a [physics](skill) lover,which national level exams or olympiads are suitable for me after [10th](qualification)
+- when will [science](skill) olympiad be held
+- when will [gate](exam) exam be held this yr
+- i wish to join [dtu](college) after [12th](qualification) , do i need to take any test or exam for that
+- i want to take admission in [du](college) in [bsc](course) is there any kind of test or exam 
+- i'm interested in joining [btech course](course) in [ipu](college) , is there any ppr i need to clear
+- i'm interested in govt jobs show related xams
+- it's my wish to get selected in [gate](exam) what score do i need for that
+- i want a job in [infosys](company) , are there any tests that i need to clear
+- what are the passing marks in [10th](exam)
+- how many marks does a student score in order to pass [12th boards](exam)
+- percentage/cgpa one needs to pass in [10th](exam)
+- total marks of [gate](exam) exam 
+- maximum marks of [neet](exam)
+- max mks of [neet](exam)
+- min pass mks for [neet](exam)
+- minimum passing marks for [jee](exam)
+- what is the score needed to crack [jee](exam)
+- what is  the cutoff in [du](college) for [bsc](course)
+- what percentage is required to get admission in [first ](amount) cutoff in [du](college)
+- average cutoff marks to clear [jee](exam) for [general](category) candidates
+- mks needed for general students in [jee](exam)
+- how many marks do [reserved](category) students need to crack [jee](exam)
+- i wish to serve in a [mnc](company) after [btech](course) , what type of placement exams should i clear
+- till when can i apply for [gate](exam) [2021](year)
+- important exam dates for a [science](skill) enthusiast
+- imp exam dates 
+- i want to study abroad, show me exams for abroad
+- xams for study in abroad enthusiasts
+- only show exams for [btech ](course) students
+- i am currently in my final year of [btech](course) , show exams for placements 
+- is there any exam for placement after [btech](course)
+- i need to be placed in [infosys](company) , tell me the course for exam 
+- placement exams syllabus
+- previous years question papers of [gate](exam)
+- past yr ques pprs 
+- last ten yr papers
+- can you show me last ten years question papers of [jee](exam)
+- only show last year [jee](exam) paper
+- show me [2015](year) [gate](exam) paper
+- [jee](exam) [2010](year) paper
+- when is 12th board exams starting 
+- class [12th ](class) sample paper by [cbse](board) for [2020](year)
+- imp xam dates
+- study abroad exams
+- do i need to expertise [english](skill) for [gmat](exam)
+- are there any other options related to [gate](exam)
+- give me link where i should fill the registration form for [gate](exam) exam 
+- provide link for application form for [gate](exam)
+- what is difference between online and offline based[gate](exam) exam 
+- time limit for [gate](exam) examinations
+- time duration of [jee](exam) examination
+- do we only have mcq 's in [gate](exam)
+- total how many questions are there in [cat](exam)
+- i wish to do masters, what exams are recommended for me 
+- i have completed my [btech](course), is there any national level examination which i should compete for pursuing my masters
+- i want to pursue my studies in abroad, suggest examinations related to this
+- i am practicing in abroad, i wish to come to india, what exams do i need to clear to get a good job
+- number of questions in [gate](exam)
+- num of ques 
+- no. of ques in [neet](exam)
+- how many questions are from [bio](skill) in [neet](exam)
+- how long it takes to get fully prepared for [gate](exam)
+- is there any negative marking in [neet](exam) exam 
+- how many marks are deducted for each wrong answer in [neet](exam)
+- how many questions are compulsory to attempt in [12th](exam)
+- are all questions mcq based
+- are there subjective questions in [12th](exam)
+- can there be any objective type questions in [12th ](exam)standard
+
+## intent: goodbye
+- bye
+- goodbye
+- bie
+- bbye
+- by
+- bii
+- gudbye
+- gud bie
+- bye bye
+- tata
+- tata bye bye
+- see you later
+- see you again
+- see u soon
+- talk to you again
+- talk to you later
+- have a nice day
+- good day ahead
+- have a good day
+- would love to talk to you again
+- take care
+- TC
+- i look forward to our next meeting
+- ok bye
+- kk bie
+
+

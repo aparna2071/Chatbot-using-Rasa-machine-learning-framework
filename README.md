@@ -23,8 +23,6 @@ ujson module allows to convert between Python objects and the JSON data format.
 7.	Then,    conda install tensorflow
 It will install Tensorflow 
 8.	Now install rasa x using following command:
-
-
 pip install rasa-x –extra-index-url https://pypi.rasa.com/simple
 9.	Now install spacy. spaCy is a free open-source library for Natural Language Processing in Python. 
 
